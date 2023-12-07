@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4520161",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "8679369",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "8947208",
+      "name": "员工风采",
+      "font_class": "yuangongfengcai",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "11654039",
+      "name": "活动",
+      "font_class": "huodong",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "26346659",
+      "name": "企业招聘",
+      "font_class": "qiyezhaopin",
+      "unicode": "ffcd",
+      "unicode_decimal": 65485
+    },
+    {
+      "icon_id": "30037999",
+      "name": "列表",
+      "font_class": "liebiao",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    }
+  ]
+}
